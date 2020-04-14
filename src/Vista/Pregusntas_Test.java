@@ -11,6 +11,8 @@ import net.sf.clipsrules.jni.*;
  */
 public class Pregusntas_Test extends javax.swing.JFrame {
     
+    
+    
         int a = 0;
         int b = 0;
         int c = 0;
