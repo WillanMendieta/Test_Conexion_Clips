@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Preg5" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg4" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg6" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg8" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg7" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg9" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg10" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg11" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="68" max="-2" attributes="0"/>
+                                      <Component id="P11R2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="P11R3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                      <Component id="P12R1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P12R2" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="P12R3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="Preg12" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg14" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg13" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg15" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="Preg3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="324" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="P3R1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="P3R2" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                                              <Component id="P3R3" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="P2R1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="P2R2" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" max="-2" attributes="0"/>
+                              <Component id="P2R3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="Preg2" min="-2" max="-2" attributes="0"/>
+                          <Component id="Preg1" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="P4R1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="P4R2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P4R3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="P5R1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="P5R2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="P5R3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="P6R1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P6R2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="jRadioButton17" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="P9R1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="P9R2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P9R3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="P11R1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="P10R1" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <Component id="P7R1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P7R2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P7R3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Component id="P8R1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="P8R2" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+                                              <Component id="P10R2" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="P10R3" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P8R3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="P14R1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P14R2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P14R3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="P13R1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P13R2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P13R3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="P15R1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P15R2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="P15R3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="58" max="-2" attributes="0"/>
+                                      <Component id="BTcalcular" min="-2" pref="180" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="P1R1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="P1R2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="P1R33" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="384" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="0" pref="14" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLabel1" min="-2" pref="42" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Preg1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P1R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P1R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P1R33" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Preg2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P2R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P2R3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P2R1" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+              <Component id="Preg3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P3R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P3R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P3R3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+              <Component id="Preg4" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P4R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P4R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P4R3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+              <Component id="Preg5" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P5R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P5R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P5R3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Preg6" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P6R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P6R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jRadioButton17" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="Preg7" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P7R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P7R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P7R3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="Preg8" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P8R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P8R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P8R3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+              <Component id="Preg9" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P9R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P9R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P9R3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Preg10" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P10R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P10R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P10R3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="Preg11" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P11R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P11R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P11R3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Preg12" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="P12R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P12R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="P12R3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="Preg13" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="P13R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="P13R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="P13R3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Preg14" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="P14R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="P14R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="P14R3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                      <Component id="Preg15" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="P15R1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="P15R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="P15R3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="84" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="BTcalcular" min="-2" pref="101" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="36" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Preguntas:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="1 &#xbf;Te sientes conectado/a con tu cuerpo?"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Preg1"/>
+      </AccessibilityProperties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="2.&#xbf;Realizas al menos un chequeo m&#xe9;dico (de control) por a&#xf1;o?"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Preg2"/>
+      </AccessibilityProperties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="3 &#xbf;Fumas?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="4 &#xbf;Trabajas o vives en ambientes donde se fuma?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="5 &#xbf;Bebes alcohol?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="6 &#xbf;Te preocupas por llevar un plan de alimentaci&#xf3;n balanceada?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="7 &#xbf;Consumes frutas?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="BTcalcular">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Calcular"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BTcalcularActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg8">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="8 &#xbf;Comes entre el desayuno, el almuerzo y merienda?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg9">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="9 &#xbf;Con qu&#xe9; frecuencia realizas actividad f&#xed;sica?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg10">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="10 &#xbf;Realizas alguna actividad que te distrae y relaja?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg11">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11 &#xbf;Logras conciliar y mantener el sue&#xf1;o normalmente?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg12">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="12 &#xbf;Estas en contacto con el aire libre?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg13">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="13 En la semana, &#xbf;cu&#xe1;ntas cuadras sueles caminar por d&#xed;a?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg14">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="14 &#xbf;C&#xf3;mo evaluas tu vida afectiva actual?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Preg15">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="15 &#xbf;C&#xf3;mo evaluas tu rutina  laboral? "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P1R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Si"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="P1R1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P1R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Relativamente"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P1R33">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P2R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Si"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P2R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Me hago chequeos, pero pasa m&#xe1;s de un a&#xf1;o entre uno y otro."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P2R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="S&#xf3;lo lo hago cuando tengo alg&#xfa;n problema de salud."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P3R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P3R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Poco"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P3R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bastante o mucho"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P4R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P4R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Eventualmente"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P4R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="S&#xed;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P5R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No, o lo hago socialmente de vez en cuando"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P5R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="S&#xed;, entre dos y cuatro veces a la semana"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P5R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="S&#xed;, todos o casi todos los d&#xed;as"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P6R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="S&#xed;, de hecho lo hago"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P6R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="S&#xed;, pero no siempre lo logro"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="jRadioButton17">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P7R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nunca o, a lo sumo, una vez a la semana"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P7R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Entre dos y tres veces por semana"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P7R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Entre dos y tres veces por semana"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P8R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dos veces al d&#xed;a, colaciones para no tener tanto hambre al almorzar o cenar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P8R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Algunas veces s&#xed;, golosinas o snacks"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P8R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Siempre como lo que encuentre a mano entre comida y comida"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P9R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dos o m&#xe1;s veces por semana"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P9R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Una vez a la semana"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P9R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No realizo con regularidad"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P10R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="S&#xed;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P10R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A veces"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P10R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P11R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="S&#xed;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P11R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A veces"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P11R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Generalmente no"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P12R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Si no es todos los d&#xed;as, al menos los fines de semana"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P12R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Eventualmente"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P12R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pr&#xe1;cticamente nunca"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P13R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="15 o m&#xe1;s"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P13R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Entre 5 y 15"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P13R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Menos de 5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P14R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Positiva"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P14R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Aceptable"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P14R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Negativa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P15R1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Activa pero manejable"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P15R2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bastante intensa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="P15R3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Estresante"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
