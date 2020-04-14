@@ -250,9 +250,9 @@ public class Pregusntas_Test extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addContainerGap()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(Preg5)
                             .addComponent(Preg4)
@@ -281,23 +281,18 @@ public class Pregusntas_Test extends javax.swing.JFrame {
                             .addComponent(Preg13)
                             .addComponent(Preg15)
                             .addGroup(layout.createSequentialGroup()
-                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                .addGap(10, 10, 10)
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                     .addGroup(layout.createSequentialGroup()
-                                        .addComponent(Preg3)
-                                        .addGap(324, 324, 324))
-                                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
-                                        .addGap(10, 10, 10)
-                                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                            .addGroup(layout.createSequentialGroup()
-                                                .addComponent(P3R1)
-                                                .addGap(18, 18, 18)
-                                                .addComponent(P3R2)
-                                                .addGap(5, 5, 5)
-                                                .addComponent(P3R3))
-                                            .addGroup(layout.createSequentialGroup()
-                                                .addComponent(P2R1)
-                                                .addGap(18, 18, 18)
-                                                .addComponent(P2R2)))))
+                                        .addComponent(P3R1)
+                                        .addGap(18, 18, 18)
+                                        .addComponent(P3R2)
+                                        .addGap(5, 5, 5)
+                                        .addComponent(P3R3))
+                                    .addGroup(layout.createSequentialGroup()
+                                        .addComponent(P2R1)
+                                        .addGap(18, 18, 18)
+                                        .addComponent(P2R2)))
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(P2R3))
                             .addComponent(Preg2)
@@ -375,11 +370,15 @@ public class Pregusntas_Test extends javax.swing.JFrame {
                                         .addGap(18, 18, 18)
                                         .addComponent(P1R2)
                                         .addGap(18, 18, 18)
-                                        .addComponent(P1R33))))))
+                                        .addComponent(P1R33)))))
+                        .addGap(0, 14, Short.MAX_VALUE))
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(384, 384, 384)
-                        .addComponent(jLabel1)))
-                .addGap(0, 14, Short.MAX_VALUE))
+                        .addComponent(Preg3)
+                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
+            .addGroup(layout.createSequentialGroup()
+                .addGap(389, 389, 389)
+                .addComponent(jLabel1)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -399,9 +398,9 @@ public class Pregusntas_Test extends javax.swing.JFrame {
                     .addComponent(P2R2)
                     .addComponent(P2R3)
                     .addComponent(P2R1, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(7, 7, 7)
-                .addComponent(Preg3)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(Preg3)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(P3R1)
                     .addComponent(P3R2)
@@ -522,7 +521,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
-        
+// PREGUNTA 3        
         if(P3R1.isSelected()){
             a=a+10;
         }
@@ -530,7 +529,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
-        
+ // PREGUNTA 4       
         if(P4R1.isSelected()){
             a=a+10;
         }
@@ -538,6 +537,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
+// PREGUNTA 5        
         if(P5R1.isSelected()){
             a=a+10;
         }
@@ -545,8 +545,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
-        
-        
+// PREGUNTA 6 
         if(P6R1.isSelected()){
             a=a+10;
         }
@@ -554,7 +553,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
-        
+// PREGUNTA 7        
         if(P7R1.isSelected()){
             a=a+10;
         }
@@ -563,7 +562,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
         }
         
         
-        
+// PREGUNTA 8        
         if(P8R1.isSelected()){
             a=a+10;
         }
@@ -572,7 +571,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
         }
         
         
-        
+// PREGUNTA 9        
         if(P9R1.isSelected()){
             a=a+10;
         }
@@ -580,8 +579,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
-        
-        
+// PREGUNTA 10       
         if(P10R1.isSelected()){
             a=a+10;
         }
@@ -589,8 +587,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
-        
-        
+// PREGUNTA 10      
         if(P11R1.isSelected()){
             a=a+10;
         }
@@ -598,8 +595,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
-        
-        
+// PREGUNTA 11  
         if(P12R1.isSelected()){
             a=a+10;
         }
@@ -607,7 +603,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
-        
+// PREGUNTA 12       
         if(P13R1.isSelected()){
             a=a+10;
         }
@@ -615,7 +611,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
-        
+// PREGUNTA 12       
         if(P14R1.isSelected()){
             a=a+10;
         }
@@ -623,7 +619,7 @@ public class Pregusntas_Test extends javax.swing.JFrame {
             b=b+5;
         }
         
-        
+// PREGUNTA 13        
         if(P15R1.isSelected()){
             a=a+10;
         }
